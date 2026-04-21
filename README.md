@@ -1,16 +1,20 @@
-## Hi there 👋
+## Dogechain Wallet
 
-<!--
-**dogechain-team/dogechain-team** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building the first lightweight SPV desktop wallet for [Dogecoin](https://dogechain.dev/).
 
-Here are some ideas to get you started:
+- [Download Dogechain Wallet](https://dogechain.dev/download) - Windows, macOS, Linux
+- [How SPV Sync Works](https://dogechain.dev/features/spv-sync) - Minutes, not days
+- [Built-in Swap](https://dogechain.dev/features/swap) - DOGE to BTC, ETH, USDT. No KYC.
+- [Security Architecture](https://dogechain.dev/features/security) - Non-custodial, Hacken audited
+- [Wallet Comparison](https://dogechain.dev/compare) - Best Dogecoin wallets 2026
+- [All Guides](https://dogechain.dev/guides) - Recovery, mining, payments, FAQ
+- [About the Project](https://dogechain.dev/about) - Layer 1 native, Libdogecoin powered
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Resources:**
+- [Best Dogecoin Wallets 2026](https://dogechain.dev/guides/best-dogecoin-wallets-2026)
+- [Dogecoin Wallet FAQ](https://dogechain.dev/guides/dogecoin-wallet-faq)
+- [Wallet Recovery Guide](https://dogechain.dev/guides/dogecoin-wallet-recovery)
+- [Dogechain Wallet Review](https://dogechain.dev/guides/dogechain-wallet-review)
+- [What Happened to Dogechain.info?](https://dogechain.dev/guides/what-happened-dogechain-info)
+
+[Documentation and Articles](https://github.com/dogechain-team/dogechain-wallet-docs)
